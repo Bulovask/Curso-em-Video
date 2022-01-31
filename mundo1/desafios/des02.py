@@ -1,0 +1,6 @@
+print('\033[34;1m',18*'=', 'DESAFIO 02', 19*'=')
+print("\033[32m Você nasceu no")
+dia = input('\033[32m dia = \033[37m')
+mes = input('\033[32m mês = \033[37m')
+ano = input('\033[32m ano = \033[37m')
+print('\033[32mVocê nasceu no dia', dia, 'de', mes, 'de', ano, '. Correto?')
