@@ -18,6 +18,7 @@ while True:
 		break
 
 print(20 * '=-')
+num.sort()
 print(f' Você digitou os valores {num}')
 	
 	
